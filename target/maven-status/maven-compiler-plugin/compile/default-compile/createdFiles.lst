@@ -1,0 +1,5 @@
+com\springboot\fund\entity\Fund.class
+com\springboot\fund\repository\FundRepository.class
+com\springboot\fund\service\controller\FundController.class
+com\springboot\fund\service\FundService.class
+com\springboot\fund\service\application\FundMainApplication.class
